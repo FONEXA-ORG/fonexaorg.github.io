@@ -1,0 +1,28 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #0b0b0b;
+  color: #fff;
+  text-align: center;
+  line-height: 1.6;
+  margin: 0;
+}
+header {
+  background: linear-gradient(135deg, #0ae98a, #00c7ff);
+  padding: 40px 20px;
+}
+section {
+  padding: 40px 20px;
+  border-bottom: 1px solid #222;
+}
+footer {
+  padding: 20px;
+  font-size: 0.9em;
+  background: #111;
+}
+a {
+  color: #00c7ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
